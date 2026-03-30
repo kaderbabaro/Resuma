@@ -1,0 +1,9 @@
+{
+  "@@locale": "fr",
+  "appTitle": "Resuma",
+  "login": "Connexion",
+  "register": "Inscription",
+  "languages": "Langues",
+  "selectLanguage": "Sélectionnez la langue",
+  "darkMode": "Mode sombre"
+}
