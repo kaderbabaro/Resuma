@@ -9,10 +9,10 @@ const supabase = createClient(
 
 // 🔧 Tes Price IDs Stripe
 const PRICE_TO_PLAN: Record<string, string> = {
-  "price_1T7Zh2C4BUOi0iClljTdEGWM": "basic",
-  "price_1T7ZivC4BUOi0iClF5Z4QcOR": "basic",
-  "price_1T7ZjkC4BUOi0iClXgPS2Qve": "pro",
-  "price_1T7ZkKC4BUOi0iClbACREo0X": "pro",
+  "price_number": "basic",
+  "price_number": "basic",
+  "price_number": "pro",
+  "price_number": "pro",
 };
 
 // ── Vérifie la signature Stripe sans SDK ────────────────────────────────────
